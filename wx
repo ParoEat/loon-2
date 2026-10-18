@@ -9,7 +9,6 @@
 #!loon_version = 3.2.1(749)
 #!homepage = @闲鱼：大菠萝的店
 #!icon = https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/wechat.png
-#!date = 2024-09-27 22:18:09
 
 [Rule]
 # 微信小程序通用规则
