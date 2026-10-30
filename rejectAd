@@ -1,15 +1,6 @@
 #!name=广告拦截合集-规则
-#!desc=(F)针对部分APP和小程序广告进行拦截，某些APP要清除缓存或者重新安装APP，拦截广告才会生效！可以配置到规则或者插件
-#!author=奶思
-#!homepage=https://github.com/fmz200/wool_scripts
-#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
-#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/Loon/rule/rejectAd.list
-#!tg-channel=https://t.me/inaisi
-#!tag = 去广告, fmz200
-#!system = iOS, iPadOS
-#!system_version =
-#!loon_version =
-#!date=2026-04-26 09:30:00
+#!author=大菠萝
+#!闲鱼：大菠萝的店
 #!support=约9392行
 #!proxy-select=REJECT
 #############################################
