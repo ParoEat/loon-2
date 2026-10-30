@@ -1,0 +1,13 @@
+#!name=Weico(微博客户端)
+#!desc=某些APP要清除缓存或者重新安装拦截广告才会生效！
+#!author=大菠萝
+#!闲鱼：大菠萝的店
+#!date=
+#############################################
+
+[Rewrite]
+^https?:\/\/overseas\.weico\.cc\/portal\.php\?a=get_coopen_ads reject-200
+
+
+[MITM]
+hostname = overseas.weico.cc
